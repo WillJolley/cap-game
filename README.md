@@ -1,3 +1,7 @@
+### Proposal
+
+Aiming to make a simple 2d platformer or sidescroller with JavaScript and possibly use a library like phaser. 
+
 ### Research & Planning Log
 #### Wednesday, 1/25
 * 6:30: Brainstorming project ideas
