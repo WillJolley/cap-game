@@ -11,3 +11,7 @@ Aiming to make a simple 2d platformer or sidescroller with JavaScript and possib
 * 4:00: Research phaser JS library https://phaser.io/tutorials/getting-started-phaser3
 #### Tuesday, 1/30
 * 12:30: Work through breakout tutorial https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+#### Wednesday, 2/7
+* 7:00: Continued same breakout tutorial, did some brainstorming about direction of game
+#### Friday, 2/9 
+* 7:30: Tinkered with breakout 
