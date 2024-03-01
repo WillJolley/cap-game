@@ -15,3 +15,9 @@ Aiming to make a simple 2d platformer or sidescroller with JavaScript and possib
 * 7:00: Continued same breakout tutorial, did some brainstorming about direction of game
 #### Friday, 2/9 
 * 7:30: Tinkered with breakout 
+#### Saturday, 2/10
+* 9:30: Researched making shmup with javascript, watched some of https://www.youtube.com/watch?v=MCVU0w73uKI
+#### Sunday, 2/25 
+* 10:00: Played some flash games I used to play in high school. Idea to make a clone of winterbells and spin the aesthetic. 
+#### Thursday, 2/29
+* 6:15: Watching this vertical platformer tutorial https://www.youtube.com/watch?v=rTVoyWu8r6g
