@@ -21,3 +21,5 @@ Aiming to make a simple 2d platformer or sidescroller with JavaScript and possib
 * 10:00: Played some flash games I used to play in high school. Idea to make a clone of winterbells and spin the aesthetic. 
 #### Thursday, 2/29
 * 6:15: Watching this vertical platformer tutorial https://www.youtube.com/watch?v=rTVoyWu8r6g
+#### Sunday, 3/3
+* 6:30: Watching this platformer tutorial https://www.youtube.com/watch?v=w-OKdSHRlfA
