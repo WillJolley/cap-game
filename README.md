@@ -23,3 +23,5 @@ Aiming to make a simple 2d platformer or sidescroller with JavaScript and possib
 * 6:15: Watching this vertical platformer tutorial https://www.youtube.com/watch?v=rTVoyWu8r6g
 #### Sunday, 3/3
 * 6:30: Watching this platformer tutorial https://www.youtube.com/watch?v=w-OKdSHRlfA
+#### Monday, 3/4
+* 7:00 Been watching these tutorials https://www.youtube.com/watch?v=_E7kE3Zuf3A&list=PLjcN1EyupaQlBSrfP4_9SdpJIcfnSJgzL&index=6
